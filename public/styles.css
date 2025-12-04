@@ -1,0 +1,65 @@
+body {
+	font-family: Arial;
+	margin: 20px;
+}
+
+.header, .footer {
+	width: 100%;
+	background-color: red;
+	padding: 10px;
+	color: white;
+}
+
+.header_secondary {
+	color: black;
+}
+
+.content p {
+	color: black;
+	font-size: 14pt;
+}
+.content li {
+	color: black;
+	font-size: 14pt;
+	margin: 10px;
+	list-style-type: square;
+}
+.picture img {
+	width: 200px;
+}
+.links a {
+	font-size: 16pt;
+	font-weight: bold;
+}
+.btn-selected {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+#add-to-cart-btn {
+    font-size: 1.5rem;  
+    padding: 15px 30px; 
+    border-radius: 10px; 
+}
+.center-text {
+	width: 100%;
+	background-color: red;
+	padding: 10px;
+    text-align: center;
+}
+.right-text {
+	width: 100%;
+	padding: 50px;
+    text-align: right;
+}
+.border {
+	width: 100%;
+	background-color: red;
+	padding: 1px;
+	color: white;
+}
+.space {
+	font-family: Arial;
+	margin: 50px;
+}
+
+
